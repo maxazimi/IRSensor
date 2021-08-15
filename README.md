@@ -1,11 +1,11 @@
-## Max Azimi
+## Automatic Faucet IR sensor module
 
-Embedded Software developer
+Designed by Mehdi Azimi & Sajjad Ramezani
 
-### About me
+### About us
 
-I develop Embedded Systems projects!
+We develop Industrial Automation & Embedded Systems projects.
 
-### Contact me
+### Contact us
 
 maxazimy@gmail.com
