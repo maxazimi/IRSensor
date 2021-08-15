@@ -1,6 +1,9 @@
 ## Automatic Faucet IR sensor module
 
-Designed by Mehdi Azimi & Sajjad Ramezani
+### Designers:
+
+Sajjad Ramezani
+Mehdi Azimi
 
 ### About us
 
